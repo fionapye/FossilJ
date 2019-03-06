@@ -4,4 +4,4 @@ FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-a
 
 The program's documentation is available here:
 
-<add further resources here when available>
+*add further resources here when available*
