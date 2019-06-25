@@ -1,8 +1,8 @@
-# FossilJ is a plugin for bivalve image analysis in imageJ. 
+# FossilJ is a plugin for bivalve image analysis in ImageJ. 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3256065.svg)](https://doi.org/10.5281/zenodo.3256065)
 
-The plugin provides free, open source tools for semiautomated measurements of both drilled and undrilled bivalve shells. 
+The plugin provides free, open source tools for semi-automated measurements of both drilled and undrilled bivalve shells. 
 
 The program's documentation is available here:
 
