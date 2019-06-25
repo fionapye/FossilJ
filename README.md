@@ -8,5 +8,7 @@ The program's documentation is available here:
 
 *add further resources here when available*
 
+Cite as
+Fiona Pye, & Nussaïbah B. Raja. (2019, June 25). fionapye/FossilJ: FossilJ v0.2.0 (Version v0.2.0). Zenodo. http://doi.org/10.5281/zenodo.3256065
 
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
