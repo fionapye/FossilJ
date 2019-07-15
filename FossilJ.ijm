@@ -52,7 +52,6 @@ for (i=0; i<list.length; i++) {
 
 	selectWindow("Red"); //select the Red window
  
-	
 	run("8-bit"); //convert to 8bit greyscale
 	setOption("BlackBackground", false); //state is not black background --> once converted is black objects on white
 	run("Make Binary"); //turn into true black and white. is necessary?
@@ -174,15 +173,7 @@ for (i=0; i<list.length; i++) {
 	close(); //close the image
 
 ////collection of shell measurements
-	//selectWindow("Rotated"); //select rotated shells window
-	//run("Select None"); //ensure nothing is selected
-	//run("Duplicate...", "title=Copy"); //duplicate rotated shells window and rename Copy
 
-//is this bit needed? data prep but is done earlier?
-	//run("8-bit");
-	//setOption("BlackBackground", false);
-	//run("Make Binary");
-	
 //rename image as original image name for easy data tracking
 selectWindow("RotatedCopy"); //select the window to rename
 	rename(list[i]); //rename from the filelist array

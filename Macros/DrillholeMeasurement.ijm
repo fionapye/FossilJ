@@ -5,7 +5,7 @@
 
 ////gather information about drillholes present
 
-selectWindow("origCopy"); //select window "Copy"
+selectWindow("origCopy"); //select window containing the copy of the original
 
 ans=0; //set global variable for safety feature
 //while, runs block until ans /= 0
