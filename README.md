@@ -13,6 +13,6 @@ FIJI is available to download here: https://fiji.sc/
 
 Cite as:
 
-Fiona Pye, & Nussaïbah B. Raja. (2019, June 25). fionapye/FossilJ: FossilJ v0.2.0 (Version v0.2.0). Zenodo. http://doi.org/10.5281/zenodo.3256065
+Fiona Pye, & Nussaïbah B. Raja. (2019, June 25). fionapye/FossilJ: FossilJ v0.2.0 (Version v0.2.1). Zenodo. http://doi.org/10.5281/zenodo.3336200
 
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
