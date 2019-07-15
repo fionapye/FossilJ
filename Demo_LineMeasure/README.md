@@ -1,11 +1,11 @@
 # LineMeasure
 
-Adapted version of FossilJ for measuring coniform conodonts using basic lines between landmarks
+Adapted version of FossilJ for measuring lines between landmarks
 Creates verification images of measurements, with specimen number allocation
 CSV files containing measurements with specimen and measurement references
 
 Install FIJI distribution of ImageJ
-Download LineMeasure fron the Macros folder and place ijm file in a convinient location.
+Download LineMeasure fron the Macros folder and place in a convinient location.
 
 - Requires blue scalebars (rgb : 0,0,255)
 - Units can be um or mm, all are converted to mm
