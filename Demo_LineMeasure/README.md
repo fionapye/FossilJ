@@ -1,8 +1,8 @@
 # LineMeasure
 
-Adapted version of FossilJ for measuring lines between landmarks
-Creates verification images of measurements, with specimen number allocation
-CSV files containing measurements with specimen and measurement references
+Adapted version of FossilJ for measuring lines between landmarks.
+Creates verification images of measurements, with specimen number allocation.
+CSV files containing measurements with specimen and measurement references.
 
 Install FIJI distribution of ImageJ
 Download LineMeasure fron the Macros folder and place in a convinient location.
