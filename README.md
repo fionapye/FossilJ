@@ -6,7 +6,7 @@ The plugin provides free, open source tools for semi-automated measurements of b
 
 The program's documentation is available here:
 
-FossilJ v0.2.0 was built in the FIJI distribution of ImageJ v1.52n.
+FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.
 FIJI is available to download here: https://fiji.sc/
 
 *add further resources here when available*
