@@ -11,7 +11,7 @@ Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v
 
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
 
-The program's documentation is available here:
+The documentation for the plugin is available below:
 
 Summary: 
 <ul>
@@ -53,8 +53,7 @@ Outputs:
       <li>Height - Dorso-vental </li> 
       <li>Shell - Specimen number (unique per image) </li> 
       <li>Broken - Broken shell = 1, complete shell = 0 </li>
-      </ul>
-      <br>
+      </ul><br>
       <li> "drillmeasurements.csv" </li>
       <ul style="list-style-type:none;">
       <li>Label - Image name </li> 
@@ -87,14 +86,16 @@ Setup:
 </ol>
 
 Operation:
-
-
-
-Requires blue scalebars (rgb : 0,0,255)
-Units can be um or mm, all are converted to mm
-Results are better if the screen is bigger
-Image windows can be maximised for interaction
-Process up to 15 images in one go, but no more as if something goes wrong the data is comprimised and you have to start over
+<p style="text-indent: 40px">
+  General Guidance
+  <ul>
+    <li>User interaction has higher accuracy on larger screens </li>
+    <li>Image windows can be maximised for interaction </li>
+    <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and require restarting </li>
+    <li>Clear, machine-readable image naming system is optimal (for data analysis) </li>
+  </ul>
+  
+  
 Create input directory for images to be batch processed.
 Create output directory to store output verification images and data
 Open FIJI
