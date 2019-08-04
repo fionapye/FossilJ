@@ -107,7 +107,7 @@ Operation:
   <li>Scalebar calibration</li>
     Length and units <br>
     Click once on each end of the scalebar then click "OK" <br>
-    <p style="text-indent: 40px">
+    <p style="text-indent: 100px">
       If the scalebar is correctly selected click "Yes" to continue
       To restart calibration click "No". This returns to the length and units input.
   </p>
