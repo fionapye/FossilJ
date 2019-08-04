@@ -46,20 +46,23 @@ Outputs:
   <li>CSV data </li>
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
-      <li> "shellmeasurements.csv" </li>
+      <li> "shell_measurements.csv" </li>
       <ul style="list-style-type:none;">
       <li>Label - Image name </li> 
       <li>Width - Anterio-posterior </li> 
       <li>Height - Dorso-vental </li> 
       <li>Shell - Specimen number (unique per image) </li> 
       <li>Broken - Broken shell = 1, complete shell = 0 </li>
+      <li>Valve - chirality left/right </li>
       </ul><br>
-      <li> "drillmeasurements.csv" </li>
+      <li> "drill_measurements.csv" </li>
       <ul style="list-style-type:none;">
       <li>Label - Image name </li> 
       <li>Name - Drillhole reference </li> 
       <li>Shell - Specimen number (unique per image, same as in "shellmeasurements.csv") </li> 
       <li>Type - Internal or edge drill </li> 
+      <li>Feret - Drillhole diameter </li>
+      <li>Incomplete - Incomplete drill = 1, complete drill = 0 </li>
       </ul>
   </ul></p>
   <li>Verification Images ("*" indicates where image name is appended) </li>
@@ -92,14 +95,20 @@ Operation:
     <li>User interaction has higher accuracy on larger screens </li>
     <li>Image windows can be maximised for interaction </li>
     <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and require restarting </li>
-    <li>Clear, machine-readable image naming system is optimal (for data analysis) </li>
+    <li>Clear, machine-readable image naming system is optimal (for further data analysis) </li>
   </ul>
-  
-  
-Create input directory for images to be batch processed.
-Create output directory to store output verification images and data
-Open FIJI
-Plugins --> Macros --> Run --> Select the downloaded ijm file
+
+<ol>
+  <li>Open FIJI </li>
+  <li>Select FossilJ from the Plugins menu </li>
+  <li>Select the input and output folders </li>
+  <li>Scalebar calibration</li>
+  Length and units
+  Click once on each end of the scalebar
+  <li> </li>
+  <li> </li>
+</ol>
+
 The plugin will start, follow the provided instructions.
 Things to note
 
