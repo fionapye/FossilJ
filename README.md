@@ -127,6 +127,10 @@ Operation:<br>
     When prompted, click "OK" to add scalebars to verification images. <br>
     Scalebars appear to the right of the click position, and are 1 mm in length. <br>
     Repeat for all prompted images.
+  <li>Valve Chirality </li>
+    Check the chirality identification (left/right) and edit using the dropdown provided if required.
+  <li>Save </li>
+    The data and images are saved and closed automatically.
 </ol>
 
 The plugin will start, follow the provided instructions.
