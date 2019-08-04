@@ -100,6 +100,7 @@ Operation:<br>
   This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows. 
   </ul>
 
+Repeat this sequence on every input folder, until all data is processed.
 <ol>
   <li>Open FIJI </li>
   <li>Select FossilJ from the Plugins menu </li>
@@ -133,28 +134,3 @@ Operation:<br>
     The data and images are saved and closed automatically.
 </ol>
 
-The plugin will start, follow the provided instructions.
-Things to note
-
-5a. to calibrate the scale click once on both ends
-
-5b. drawing lines
-
-click and hold to draw line
-just release and draw again to correct/make new
-specimen order on the page doesn't matter, but do the lines on each specimen in the same order (this will make data processing easier)
-Next image will open, repeat process
-After all images are processed, results will be saved in the output folder
-7a. In the csv file
-
-each measurement is given a line number
-each specimen is given a number
-line length is called "length", 3rd to last column
-7b. In measurement images
-
-each line measured is drawn in red
-line number is printed in green on the line
-specimen number is printed in the upper left hand corner
-Move data into a folder denoting the first run, with original and measured images alongside the data
-Place the new set of images into the input folder, check output folder is empty
-Repeat from step 4 until all images are processed
