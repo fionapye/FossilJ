@@ -81,10 +81,10 @@ Setup:
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
   <li>Download the "FossilJ.ijm" file and the "Macros" folder </li>
-  <li>Place the "FossilJ.ijm" file in the "~Fiji.app\plugins" folder </li>
-  <li>Place the files from the "Macros" folder in the "~Fiji.app\plugins\Macros" folder </li>
+  <li>Place the "FossilJ.ijm" file in the <b>"~Fiji.app\plugins"</b> folder </li>
+  <li>Place the files from the "Macros" folder in the <b>"~Fiji.app\plugins\Macros"</b> folder </li>
   <li>Open ImageJ using the executable file </li>
-  <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the "FossilJ.ijm" file </li>
+  <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the <b>"FossilJ.ijm"</b> file </li>
   <li>Restart ImageJ </li>
 </ol>
 
