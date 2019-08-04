@@ -88,7 +88,7 @@ Setup:
   <li>Restart ImageJ </li>
 </ol>
 
-Operation:
+Operation:<br>
   General Guidance
   <ul>
     <li>User interaction has higher accuracy on larger screens </li>
