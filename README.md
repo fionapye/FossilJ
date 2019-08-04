@@ -47,9 +47,8 @@ Outputs:
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li> shellmeasurements </li>
-      <p style="text-indent: 60px">
-      Label - Image name
-      Width - anterio-posterior
+      <p> Label - Image name </p>
+      <p> Width - anterio-posterior </p>
       Height - dorso-vental
       Shell - specimen number (unique per image)
       Broken - broken shell = 1, complete shell = 0
