@@ -96,7 +96,9 @@ Operation:
     <li>Image windows can be maximised for interaction </li>
     <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and require restarting </li>
     <li>Clear, machine-readable image naming system is optimal (for further data analysis) </li>
-  </ul>
+    <li>Checks on inputs and user verification ensures data quality </li>
+    <li>"Cancel" will end this section of the Plugin, but will not exit completely. <br>
+  This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows </ul>
 
 <ol>
   <li>Open FIJI </li>
@@ -104,7 +106,11 @@ Operation:
   <li>Select the input and output folders </li>
   <li>Scalebar calibration</li>
   Length and units <br>
-  Click once on each end of the scalebar
+  Click once on each end of the scalebar then click "OK" <br>
+  <pre>If the scalebar is correctly selected click "Yes" to continue </pre>
+  <pre>To restart calibration click "No". This returns to the length and units input. </pre>
+  <pre> </pre>
+  
   <li> </li>
   <li> </li>
 </ol>
