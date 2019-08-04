@@ -110,6 +110,7 @@ Operation:
     <p style="text-indent: 40px">
       If the scalebar is correctly selected click "Yes" to continue
       To restart calibration click "No". This returns to the length and units input.
+  </p>
   
   <li> </li>
   <li> </li>
