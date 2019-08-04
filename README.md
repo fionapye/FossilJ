@@ -107,12 +107,13 @@ Operation:<br>
   <li>Scalebar calibration</li>
     Length and units <br>
     Click once on each end of the scalebar then click "OK" <br>
-    <p style="text-indent: 100px">
-      If the scalebar is correctly selected click "Yes" to continue
-      To restart calibration click "No". This returns to the length and units input.
-  </p>
-  
-  <li> </li>
+    If the scalebar is correctly selected click "Yes" to continue <br>
+    To restart calibration click "No". This returns to the length and units input step.
+  <li>Broken Specimens </li>
+    Type the number of broken specimens into the box and click "OK"
+    If no broken specimens are present, leave as 0 and click "OK" to move onto the next step
+    If broken specimens are present, click on each broken specimen once, then click "OK"
+    Verification - selecting "No" returns to the broken specimen number box, resetting this step.
   <li> </li>
 </ol>
 
