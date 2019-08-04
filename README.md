@@ -130,7 +130,7 @@ Repeat the following sequence on every input folder, until all data is processed
     Repeat for all prompted images.
   <li>Valve Chirality </li>
     Check the chirality identification (left/right) and edit using the dropdown provided if required.
-  <li>Save </li>
+  <li><b>Save </li>
     The data and images are saved and closed automatically.
 </ol>
 
