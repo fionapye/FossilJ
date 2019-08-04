@@ -1,8 +1,8 @@
-# FossilJ is a plugin for fossil data acquisition by image analysis, using ImageJ. This first version is optimised for bivalves.
+# FossilJ is a plugin for fossil data acquisition by image analysis, using ImageJ.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3336200.svg)](https://doi.org/10.5281/zenodo.3336200)
 
-The plugin provides free, open source tools for semi-automated measurements of both drilled and undrilled bivalve shells. 
+The plugin provides free, open source tools for semi-automated measurements of fossils, with this first version optimised for drilled and undrilled bivalve shells. 
 
 FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.
 FIJI is available to download here: https://fiji.sc/
@@ -100,7 +100,7 @@ Operation:<br>
   This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows. 
   </ul>
 
-Repeat this sequence on every input folder, until all data is processed.
+Repeat the following sequence on every input folder, until all data is processed:
 <ol>
   <li>Open FIJI </li>
   <li>Select FossilJ from the Plugins menu </li>
