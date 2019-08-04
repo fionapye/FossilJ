@@ -58,7 +58,7 @@ Setup:
   <li>Place the "FossilJ.ijm" file in the "~Fiji.app\plugins" folder </li>
   <li>Place the files from the "Macros" folder in the "~Fiji.app\plugins\Macros" folder </li>
   <li>Open ImageJ using the executable file </li>
-  <li>Install the plugin. Plugin tab --> Install PlugIn --> select the "FossilJ.ijm" file </li>
+  <li>Install the plugin: Plugins tab &rarr; Install PlugIn &rarr; select the "FossilJ.ijm" file </li>
 </ol>
 
 Operation:
