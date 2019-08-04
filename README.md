@@ -27,7 +27,7 @@ Inputs:
   <p style="text-indent: 40px">
   <ul style="list-style-type:disc;">
     <li>A good contrast between object and background (pale object, dark background). </li>
-    <li>Blue scale bar (rgb (0,0,255)) with units of mm or &micro;m. </li>
+    <li>Blue scale bar (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
   </ul></p>
   <li>Output directory (empty) </li>
 </ul>
