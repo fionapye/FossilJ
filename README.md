@@ -33,11 +33,11 @@ The documentation for the plugin is available below:
 <b>Inputs: </b>
 <ul>
   <li>Input directory containing images with: </li>
-  <p style="text-indent: 40px"><ul style="list-style-type:disc;">
-    <li>A good contrast between object and background (pale object, dark background). </li>
-    <li>Blue scale bar (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
-    <li>Space between specimens ~&frac13; of specimen size </li>
-  </ul></p>
+  <ul style="list-style-type:disc;">
+    <li>A <b> high contrast </b> between object and background (pale object, dark background). </li>
+    <li><b>Blue scale bar </b> (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
+    <li><b>Space</b> between specimens ~&frac13; of specimen size </li>
+  </ul>
   <li>Output directory (empty) </li>
 </ul>
 
