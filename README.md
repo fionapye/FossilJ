@@ -103,7 +103,7 @@ Operation:
   <li>Select FossilJ from the Plugins menu </li>
   <li>Select the input and output folders </li>
   <li>Scalebar calibration</li>
-  Length and units
+  Length and units <br>
   Click once on each end of the scalebar
   <li> </li>
   <li> </li>
