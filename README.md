@@ -89,7 +89,6 @@ Setup:
 </ol>
 
 Operation:
-<p style="text-indent: 40px">
   General Guidance
   <ul>
     <li>User interaction has higher accuracy on larger screens </li>
@@ -98,7 +97,8 @@ Operation:
     <li>Clear, machine-readable image naming system is optimal (for further data analysis) </li>
     <li>Checks on inputs and user verification ensures data quality </li>
     <li>"Cancel" will end this section of the Plugin, but will not exit completely. <br>
-  This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows </ul>
+  This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows 
+  </ul>
 
 <ol>
   <li>Open FIJI </li>
