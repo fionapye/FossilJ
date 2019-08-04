@@ -29,7 +29,7 @@ The documentation for the plugin is available below:
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name. </li>
 </ul>  
----------------------------------- <br>
+<hr>
 <b>Inputs: </b>
 <ul>
   <li>Input directory containing images with: </li>
