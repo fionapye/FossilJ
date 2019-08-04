@@ -123,6 +123,10 @@ Operation:<br>
     Draw the drillhole outer diameter then click "OK". Repeat until all drillholes are outlined, complete and incomplete. <br> 
     If incomplete drillholes are present, for each incomplete drillhole select the area within the outline once, and click "OK". <br>
     Check the identification of the drillhole as edge or internal drilling, which can be edited using the dropdown provided.
+  <li>New Scalebars </li>
+    When prompted, click "OK" to add scalebars to verification images. <br>
+    Scalebars appear to the right of the click position, and are 1 mm in length. <br>
+    Repeat for all prompted images.
 </ol>
 
 The plugin will start, follow the provided instructions.
