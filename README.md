@@ -47,12 +47,11 @@ Outputs:
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li> shellmeasurements </li>
-      <p> Label - Image name </p>
-      <p> Width - anterio-posterior </p>
-      Height - dorso-vental
-      Shell - specimen number (unique per image)
-      Broken - broken shell = 1, complete shell = 0
-      </p>
+      <br>Label - Image name </br>
+      <br>Width - anterio-posterior </br>
+      <br>Height - dorso-vental </br>
+      <br>Shell - specimen number (unique per image) </br>
+      <br>Broken - broken shell = 1, complete shell = 0 </br>
       <li> drillmeasurements </li>
   </ul></p>
   <li>Verification Images ("*" indicates where image name is appended) </li>
