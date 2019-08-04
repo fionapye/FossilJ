@@ -35,7 +35,7 @@ The documentation for the plugin is available below:
   <li>Input directory containing images with: </li>
   <ul style="list-style-type:disc;">
     <li>A <b> high contrast </b> between object and background (pale object, dark background). </li>
-    <li><b>Blue scale bar </b> (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
+    <li><b>Blue scale bar </b> (rgb (0,0,255)) with units of <b>mm or &micro;m</b> (all converted to mm). </li>
     <li><b>Space</b> between specimens ~&frac13; of specimen size </li>
   </ul>
   <li>Output directory (empty) </li>
