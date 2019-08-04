@@ -17,7 +17,7 @@ The documentation for the plugin is available below:
 <ul>
   <li>FossilJ semi automatically collects morphometric data from images of bivalves. </li>
   <li>The measurements are collected in mm and are: </li>
-    <p style="text-indent: 40px"><ul style="list-style-type:disc;">
+  <ul style="list-style-type:disc;">
       <li>width (anterio-posterior) </li>
       <li>height (dorso-ventral) </li>
       <li>broken/complete specimen </li>
@@ -25,7 +25,7 @@ The documentation for the plugin is available below:
       <li>drillhole diameter </li>
       <li>incomplete/complete drillhole </li>
       <li>internal or edge drilling </li>
-    </p></ul>
+    </ul>
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name. </li>
 </ul>  
@@ -44,7 +44,6 @@ The documentation for the plugin is available below:
 <b>Outputs:</b>
 <ul>
   <li>CSV data </li>
-  <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li> "shell_measurements.csv" </li>
       <ul style="list-style-type:none;">
@@ -64,17 +63,16 @@ The documentation for the plugin is available below:
       <li>Feret - Drillhole diameter </li>
       <li>Incomplete - Incomplete drill = 1, complete drill = 0 </li>
       </ul>
-  </ul></p>
+  </ul>
   <li>Verification Images ("*" indicates where image name is appended) </li>
   Images contain scalebars and specimen numbers
-  <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li>*measurements - displays length and width measurements </li>
       <li>*valve - shows allocated chirality </li>
       <li>*original_edited - copy of original image with a cleaned black background </li>
       <li>*drillholes - specimens with printed drillhole masks </li>
       <li>*drillholes_drawn - original image with the drillholes as drawn by user </li>
-  </ul></p>
+  </ul>
 </ul>  
 <hr>
 <b>Setup:</b>
