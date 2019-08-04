@@ -64,6 +64,7 @@ Outputs:
       </ul>
   </ul></p>
   <li>Verification Images ("*" indicates where image name is appended) </li>
+  Images have scalebars and specimen numbers printed
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li>*measurements - displays length and width measurements </li>
