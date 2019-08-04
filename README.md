@@ -29,8 +29,8 @@ The documentation for the plugin is available below:
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name. </li>
 </ul>  
-----------------------------------
-Inputs: 
+---------------------------------- <br>
+<b>Inputs: </b>
 <ul>
   <li>Input directory containing images with: </li>
   <p style="text-indent: 40px"><ul style="list-style-type:disc;">
@@ -41,7 +41,7 @@ Inputs:
   <li>Output directory (empty) </li>
 </ul>
 
-Outputs:
+<b>Outputs:</b>
 <ul>
   <li>CSV data </li>
   <p style="text-indent: 40px">
@@ -76,8 +76,8 @@ Outputs:
       <li>*drillholes_drawn - original image with the drillholes as drawn by user </li>
   </ul></p>
 </ul>  
---------------------------------------------------
-Setup:
+-------------------------------------------------- <br>
+<b>Setup:</b>
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
   <li>Download the "FossilJ.ijm" file and the "Macros" folder </li>
@@ -88,7 +88,7 @@ Setup:
   <li>Restart ImageJ </li>
 </ol>
 ---------------------------------------------
-Operation:<br>
+<b>Operation:</b><br>
 <br>
   General Guidance <ul>
     <li>User interaction has higher accuracy on larger screens. </li>
