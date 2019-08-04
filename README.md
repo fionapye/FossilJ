@@ -91,13 +91,13 @@ Setup:
 Operation:<br>
 <br>
   General Guidance <ul>
-    <li>User interaction has higher accuracy on larger screens </li>
-    <li>Image windows can be maximised for interaction </li>
-    <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and require restarting </li>
-    <li>Clear, machine-readable image naming system is optimal (for further data analysis) </li>
-    <li>Checks on inputs and user verification ensures data quality </li>
-    <li>"Cancel" will end this section of the Plugin, but will not exit completely. <br>
-  This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows 
+    <li>User interaction has higher accuracy on larger screens. </li>
+    <li>Image windows can be maximised for interaction. </li>
+    <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and may need to be redone.</li>
+    <li>Clear, machine-readable image naming system is optimal (for further data analysis). </li>
+    <li>Checks on inputs and user verification ensures data quality. </li>
+    <li>Clicking "Cancel" at any stage will end this section of the Plugin, but will not exit completely. <br>
+  This may cause erratic behaviour. If this occurs click "Cancel" on the next option that appears and close all windows. 
   </ul>
 
 <ol>
@@ -108,13 +108,21 @@ Operation:<br>
     Length and units <br>
     Click once on each end of the scalebar then click "OK" <br>
     If the scalebar is correctly selected click "Yes" to continue <br>
-    To restart calibration click "No". This returns to the length and units input step.
+    Verification - to restart calibration click "No". This returns to the length and units input step.
   <li>Broken Specimens </li>
-    Type the number of broken specimens into the box and click "OK"
-    If no broken specimens are present, leave as 0 and click "OK" to move onto the next step
-    If broken specimens are present, click on each broken specimen once, then click "OK"
-    Verification - selecting "No" returns to the broken specimen number box, resetting this step.
-  <li> </li>
+    Type the number of broken specimens into the box and click "OK" <br>
+    If no broken specimens are present, leave as 0 and click "OK" to move onto the next step <br>
+    If broken specimens are present, click on each broken specimen once, then click "OK" <br>
+    Verification - selecting "No" returns to the broken specimen number box, resetting this step. <br>
+  <li>Drillholes </li>
+    If no drillholes are present leave the default 0 for both options and click "OK" to move onto the next step. <br>
+    If drillholes are present, put the total number in the top box (complete and incomplete), and the number of incomplete in the lower box       and click "OK" <br>
+    Verification - selecting "No" returns to the drillhole number box, resetting this step. <br>
+    Follow the instructions provided and only interact with the image when prompted. <br>
+    The order drillholes are drawn is not important. <br>
+    Draw the drillhole outer diameter then click "OK". Repeat until all drillholes are outlined, complete and incomplete. <br> 
+    If incomplete drillholes are present, for each incomplete drillhole select the area within the outline once, and click "OK". <br>
+    Check the identification of the drillhole as edge or internal drilling, which can be edited using the dropdown provided.
 </ol>
 
 The plugin will start, follow the provided instructions.
