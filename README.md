@@ -28,6 +28,7 @@ Inputs:
   <ul style="list-style-type:disc;">
     <li>A good contrast between object and background (pale object, dark background). </li>
     <li>Blue scale bar (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
+    <li>Space between specimens ~&frac13; of specimen size </li>
   </ul></p>
   <li>Output directory (empty) </li>
 </ul>
@@ -59,6 +60,7 @@ Setup:
   <li>Place the files from the "Macros" folder in the "~Fiji.app\plugins\Macros" folder </li>
   <li>Open ImageJ using the executable file </li>
   <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the "FossilJ.ijm" file </li>
+  <li>Restart ImageJ </li>
 </ol>
 
 Operation:
