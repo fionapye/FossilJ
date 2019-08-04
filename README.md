@@ -15,21 +15,21 @@ The program's documentation is available here:
 
 Summary: 
 <ul>
-  <li>FossilJ semi automatically collects morphometric data from images of bivalves</li>
-  <li>The measurements are collected in mm and are: length (anterio-posterior length), width (dorso-ventral width), broken/complete specimen, number of drillholes, drillhole diameter, incomplete/complete drillhole, internal or edge drilling</li>
+  <li>FossilJ semi automatically collects morphometric data from images of bivalves </li>
+  <li>The measurements are collected in mm and are: length (anterio-posterior length), width (dorso-ventral width), broken/complete specimen, number of drillholes, drillhole diameter, incomplete/complete drillhole, internal or edge drilling </li>
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name </li>
 </ul>  
 
 Inputs: 
 <ul>
-  <li>Input directory containing images with</li>
+  <li>Input directory containing images with </li>
   <p style="text-indent: 40px">
   <ul style="list-style-type:disc;">
-    <li>A good contrast between object and background (pale object, dark background)</li>
-    <li>Blue scale bar (rgb (0,0,255))</li>
+    <li>A good contrast between object and background (pale object, dark background) </li>
+    <li>Blue scale bar (rgb (0,0,255)) with units of mm </li>
   </ul></p>
-  <li>Output directory (empty)</li>
+  <li>Output directory (empty) </li>
 </ul>
 
 Outputs:
@@ -38,24 +38,30 @@ Outputs:
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li> shellmeasurements </li>
-      <li> drillmeasurements</li>
+      <li> drillmeasurements </li>
   </ul></p>
   <li>Verification Images ("*" indicates where image name is appended) </li>
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li>*measurements - displays length and width measurements </li>
-      <li>*valve - shows allocated chirality</li>
+      <li>*valve - shows allocated chirality </li>
       <li>*original_edited - copy of original image with a cleaned black background </li>
-      <li>*drillholes - specimens with printed drillhole masks</li>
-      <li>*drillholes_drawn - original image with the drillholes as drawn by user</li>
+      <li>*drillholes - specimens with printed drillhole masks </li>
+      <li>*drillholes_drawn - original image with the drillholes as drawn by user </li>
   </ul></p>
 </ul>  
 
 Setup:
+<ol>
+  <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
+  <li>Download the "FossilJ.ijm" file and the "Macros" folder </li>
+  <li> </li>
+  <li> </li>
+</ol>
 
 Operation:
 
-Install FIJI distribution of ImageJ Download LineMeasure fron the Macros folder and place in a convinient location.
+
 
 Requires blue scalebars (rgb : 0,0,255)
 Units can be um or mm, all are converted to mm
