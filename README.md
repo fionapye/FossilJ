@@ -93,7 +93,7 @@ Operation:<br>
   General Guidance <ul>
     <li>User interaction has higher accuracy on larger screens. </li>
     <li>Image windows can be maximised for interaction. </li>
-    <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and may need to be redone.</li>
+    <li><b>Process up to 15 images together</b>, but no more as if an error occurs the data could be comprimised and may need to be redone.</li>
     <li>Clear, machine-readable image naming system is optimal (for further data analysis). </li>
     <li>Checks on inputs and user verification ensures data quality. </li>
     <li>Clicking "Cancel" at any stage will end this section of the Plugin, but will not exit completely. <br>
