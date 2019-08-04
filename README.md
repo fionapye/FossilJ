@@ -12,8 +12,8 @@ Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
 
 The documentation for the plugin is available below:
-
-Summary: 
+----------------------------------------------
+<b>FossilJ Summary: </b>
 <ul>
   <li>FossilJ semi automatically collects morphometric data from images of bivalves. </li>
   <li>The measurements are collected in mm and are: </li>
@@ -29,7 +29,7 @@ Summary:
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name. </li>
 </ul>  
-
+----------------------------------
 Inputs: 
 <ul>
   <li>Input directory containing images with: </li>
@@ -76,7 +76,7 @@ Outputs:
       <li>*drillholes_drawn - original image with the drillholes as drawn by user </li>
   </ul></p>
 </ul>  
-
+--------------------------------------------------
 Setup:
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
@@ -87,7 +87,7 @@ Setup:
   <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the <b>"FossilJ.ijm"</b> file </li>
   <li>Restart ImageJ </li>
 </ol>
-
+---------------------------------------------
 Operation:<br>
 <br>
   General Guidance <ul>
