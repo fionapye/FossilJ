@@ -89,8 +89,8 @@ Setup:
 </ol>
 
 Operation:<br>
-  General Guidance
-  <ul>
+<br>
+  General Guidance <ul>
     <li>User interaction has higher accuracy on larger screens </li>
     <li>Image windows can be maximised for interaction </li>
     <li>Process up to 15 images together, but no more as if an error occurs the data could be comprimised and require restarting </li>
