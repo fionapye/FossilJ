@@ -17,7 +17,7 @@ Summary:
 <ul>
   <li>FossilJ semi automatically collects morphometric data from images of bivalves. </li>
   <li>The measurements are collected in mm and are: </li>
-    <p style="text-indent: 40px">
+    <p style="text-indent: 40px"><ul style="list-style-type:disc;">
       <li>length (anterio-posterior length) </li>
       <li>width (dorso-ventral width) </li>
       <li>broken/completen specimen </li>
@@ -25,7 +25,7 @@ Summary:
       <li>drillhole diameter </li>
       <li>incomplete/complete drillhole </li>
       <li>internal or edge drilling </li>
-    </p>
+    </p></ul>
   <li>Collected measurements are shown in verification images, which can be cross referenced with the data. This data is produced as two CSV files, general specimen data and drillhole data.</li>
   <li>All specimens and drillholes are given numbers which are unique when used in combination with the image name. </li>
 </ul>  
@@ -33,8 +33,7 @@ Summary:
 Inputs: 
 <ul>
   <li>Input directory containing images with: </li>
-  <p style="text-indent: 40px">
-  <ul style="list-style-type:disc;">
+  <p style="text-indent: 40px"><ul style="list-style-type:disc;">
     <li>A good contrast between object and background (pale object, dark background). </li>
     <li>Blue scale bar (rgb (0,0,255)) with units of mm or &micro;m (all converted to mm). </li>
     <li>Space between specimens ~&frac13; of specimen size </li>
