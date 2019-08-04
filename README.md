@@ -47,11 +47,13 @@ Outputs:
   <p style="text-indent: 40px">
     <ul style="list-style-type:disc;">
       <li> "shellmeasurements.csv" </li>
-      <br>Label - Image name </br> 
-      <br>Width - Anterio-posterior </br> 
-      <br>Height - Dorso-vental </br> 
-      <br>Shell - Specimen number (unique per image) </br> 
-      <br>Broken - Broken shell = 1, complete shell = 0 </br>
+      <ul style="list-style-type:none;">
+      <li>Label - Image name </li> 
+      <li>Width - Anterio-posterior </li> 
+      <li>Height - Dorso-vental </li> 
+      <li>Shell - Specimen number (unique per image) </li> 
+      <li>Broken - Broken shell = 1, complete shell = 0 </li>
+      </ul>
       <li> "drillmeasurements.csv" </li>
       <br>Label - Image name </br> 
       <br>Name - Drillhole reference </br> 
