@@ -76,7 +76,7 @@ The documentation for the plugin is available below:
       <li>*drillholes_drawn - original image with the drillholes as drawn by user </li>
   </ul></p>
 </ul>  
--------------------------------------------------- <br>
+<hr>
 <b>Setup:</b>
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
@@ -87,7 +87,7 @@ The documentation for the plugin is available below:
   <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the <b>"FossilJ.ijm"</b> file </li>
   <li>Restart ImageJ </li>
 </ol>
----------------------------------------------
+<hr>
 <b>Operation:</b><br>
 <br>
   General Guidance <ul>
