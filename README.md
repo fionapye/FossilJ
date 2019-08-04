@@ -102,20 +102,20 @@ Operation:<br>
 
 Repeat the following sequence on every input folder, until all data is processed:
 <ol>
-  <li>Open FIJI </li>
-  <li>Select FossilJ from the Plugins menu </li>
-  <li>Select the input and output folders </li>
-  <li>Scalebar calibration</li>
+  <li><b>Open FIJI </b></li>
+  <li><b>Select FossilJ from the Plugins menu </b></li>
+  <li><b>Select the input and output folders </b></li>
+  <li><b>Scalebar calibration</b></li>
     Length and units <br>
     Click once on each end of the scalebar then click "OK" <br>
     If the scalebar is correctly selected click "Yes" to continue <br>
     Verification - to restart calibration click "No". This returns to the length and units input step.
-  <li>Broken Specimens </li>
+  <li><b>Broken Specimens </b></li>
     Type the number of broken specimens into the box and click "OK" <br>
     If no broken specimens are present, leave as 0 and click "OK" to move onto the next step <br>
     If broken specimens are present, click on each broken specimen once, then click "OK" <br>
     Verification - selecting "No" returns to the broken specimen number box, resetting this step. <br>
-  <li>Drillholes </li>
+  <li><b>Drillholes </b></li>
     If no drillholes are present leave the default 0 for both options and click "OK" to move onto the next step. <br>
     If drillholes are present, put the total number in the top box (complete and incomplete), and the number of incomplete in the lower box       and click "OK" <br>
     Verification - selecting "No" returns to the drillhole number box, resetting this step. <br>
@@ -124,13 +124,13 @@ Repeat the following sequence on every input folder, until all data is processed
     Draw the drillhole outer diameter then click "OK". Repeat until all drillholes are outlined, complete and incomplete. <br> 
     If incomplete drillholes are present, for each incomplete drillhole select the area within the outline once, and click "OK". <br>
     Check the identification of the drillhole as edge or internal drilling, which can be edited using the dropdown provided.
-  <li>New Scalebars </li>
+  <li><b>New Scalebars </b></li>
     When prompted, click "OK" to add scalebars to verification images. <br>
     Scalebars appear to the right of the click position, and are 1 mm in length. <br>
     Repeat for all prompted images.
-  <li>Valve Chirality </li>
+  <li><b>Valve Chirality </b></li>
     Check the chirality identification (left/right) and edit using the dropdown provided if required.
-  <li><b>Save </li>
+  <li><b>Save </b></li>
     The data and images are saved and closed automatically.
 </ol>
 
