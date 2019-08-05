@@ -36,7 +36,8 @@ The documentation for the plugin is available below:
   <ul style="list-style-type:disc;">
     <li>A <b> high contrast </b> between object and background (pale object, dark background). </li>
     <li><b>Blue scale bar </b> (rgb (0,0,255)) with units of <b>mm or &micro;m</b> (all converted to mm). </li>
-    <li><b>Space</b> between specimens ~&frac13; of specimen size </li>
+    <li><b>Space</b> between specimens and the edge of the image at ~&frac13; of specimen size </li>
+    <li>Bivalve shells approximately umbo to the top of the image in order for chirality determination </li>
   </ul>
   <li>Output directory (empty) </li>
 </ul>
@@ -91,6 +92,7 @@ The documentation for the plugin is available below:
   General Guidance <ul>
     <li>User interaction has higher accuracy on larger screens. </li>
     <li>Image windows can be maximised for interaction. </li>
+    <li>If contrast between object and background is not suffient, the object may not be detected and will create artefacts in data </li>
     <li><b>Process up to 15 images together</b>, but no more as if an error occurs the data could be comprimised and may need to be redone.</li>
     <li>Clear, machine-readable image naming system is optimal (for further data analysis). </li>
     <li>Checks on inputs and user verification ensures data quality. </li>
