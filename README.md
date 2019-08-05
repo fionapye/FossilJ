@@ -110,8 +110,8 @@ Repeat the following sequence on every input folder, until all data is processed
 <ol>
   <li><b>Open FIJI </b></li>
   <!--<li><b>Select FossilJ from the Plugins menu </b></li>-->
-  <li><b>Select FossilJ </b>
-    Plugins &rArr; Macros &rArr; <b>FossilJ </b>
+  <li><b>Open FossilJ </b><br>
+    Plugins &rArr; Macros &rArr; FossilJ
   <li><b>Select the input and output folders </b></li>
   <li><b>Scalebar calibration</b></li>
     Length and units <br>
