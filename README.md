@@ -81,7 +81,7 @@ The documentation for the plugin is available below:
 </ul>  
 <hr>
 <b>Setup:</b> <br>
-<i>We are currently having issues installing FossilJ as a Plugin, so for now please install it as a Macro (see below). </i> <br>
+<i>We are currently having issues installing FossilJ as a Plugin, so for now please install it as a Macro (see below). </i> <br> <br>
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
   <li>Download the "FossilJ.ijm" file and the "Macros" folder </li>
