@@ -4,10 +4,10 @@
 
 The plugin provides free, open source tools for semi-automated measurements of fossils, with this first version optimised for drilled and undrilled bivalve shells. 
 
-FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.<b>
-ImageJ is an open source Java image processing program designed by the National Institute for Health (NIH). <b>
-FIJI is Just ImageJ, which comes with many scientific image analysis plugins included. <b>
-FIJI is available to download and explore here: https://fiji.sc/ <b>
+FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.<br>
+ImageJ is an open source Java image processing program designed by the National Institute for Health (NIH). <br>
+FIJI is Just ImageJ, which comes with many scientific image analysis plugins included. <br>
+FIJI is available to download and explore here: https://fiji.sc/ <br>
 For more information about ImageJ, including the macro language, visit https://imagej.nih.gov/ij/index.html
 
 Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v0.2.1). Zenodo. http://doi.org/10.5281/zenodo.3336200
