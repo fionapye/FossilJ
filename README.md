@@ -5,7 +5,10 @@
 The plugin provides free, open source tools for semi-automated measurements of fossils, with this first version optimised for drilled and undrilled bivalve shells. 
 
 FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.
+ImageJ is an open source Java image processing program designed by the National Institute for Health (NIH)
+FIJI is Just ImageJ, which comes with many scientific image analysis plugins included.
 FIJI is available to download here: https://fiji.sc/
+For more information about ImageJ, including the macro language, visit https://imagej.nih.gov/ij/index.html
 
 Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v0.2.1). Zenodo. http://doi.org/10.5281/zenodo.3336200
 
@@ -80,8 +83,8 @@ The documentation for the plugin is available below:
 <ol>
   <li>Install FIJI distribution of ImageJ https://fiji.sc/ </li>
   <li>Download the "FossilJ.ijm" file and the "Macros" folder </li>
-  <li>Place the "FossilJ.ijm" file in the <b>"~Fiji.app\plugins"</b> folder </li>
-  <li>Place the files from the "Macros" folder in the <b>"~Fiji.app\plugins\Macros"</b> folder </li>
+  <li>Place the <b>"FossilJ.ijm"</b> file in the <b>"~Fiji.app\plugins"</b> folder </li>
+  <li>Place the files from the <b>"Macros"</b> folder in the <b>"~Fiji.app\plugins\Macros"</b> folder </li>
   <li>Open ImageJ using the executable file </li>
   <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the <b>"FossilJ.ijm"</b> file </li>
   <li>Restart ImageJ </li>
