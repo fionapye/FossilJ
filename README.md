@@ -54,7 +54,7 @@ The documentation for the plugin is available below:
       <li>Shell - Specimen number (unique per image) </li> 
       <li>Broken - Broken shell = 1, complete shell = 0 </li>
       <li>Valve - chirality left/right </li>
-      </ul><br>
+      </ul>
       <li> "drill_measurements.csv" </li>
       <ul style="list-style-type:none;">
       <li>Label - Image name </li> 
@@ -64,7 +64,7 @@ The documentation for the plugin is available below:
       <li>Feret - Drillhole diameter </li>
       <li>Incomplete - Incomplete drill = 1, complete drill = 0 </li>
       </ul>
-  </ul>
+  </ul><br>
   <li>Verification Images ("*" indicates where image name is appended) </li>
   Images contain scalebars and specimen numbers
     <ul style="list-style-type:disc;">
