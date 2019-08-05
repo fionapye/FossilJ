@@ -88,7 +88,7 @@ The documentation for the plugin is available below:
   <li>Place the files from the <b>"Macros"</b> folder in the <b>"~Fiji.app\plugins\Macros"</b> folder </li>
   <li>Open ImageJ using the executable file </li>
   <li>Install the plugin: Plugins tab &rArr; Install PlugIn &rArr; select the <b>"FossilJ.ijm"</b> file </li>
-  <li>Restart ImageJ </li>
+  <li>Restart ImageJ as instructed to finish installation</li>
 </ol>
 <hr>
 <b>Operation:</b><br>
