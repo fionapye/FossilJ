@@ -7,11 +7,11 @@ The plugin provides free, open source tools for semi-automated measurements of f
 FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.<br> 
 FIJI is available to download and explore here: https://fiji.sc/ <br><br>
 ImageJ is an open source Java image processing program designed by the National Institute for Health (NIH). <br>
-FIJI is Just ImageJ, which comes with many scientific image analysis plugins included and is built on ImageJ2 <br>
+FIJI is Just ImageJ, which comes with many scientific image analysis plugins included and is built on ImageJ2. <br>
 For more information about ImageJ, including the macro language, visit https://imagej.nih.gov/ij/index.html and https://imagej.net/ImageJ
 
 Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v0.2.1). Zenodo. http://doi.org/10.5281/zenodo.3336200 <br>
-Alongside the 
+Alongside the software you used (see https://imagej.net/Citing).
 
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
 
