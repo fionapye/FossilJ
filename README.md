@@ -37,7 +37,7 @@ The documentation for the plugin is available below:
     <li>A <b> high contrast </b> between object and background (pale object, dark background). </li>
     <li><b>Blue scale bar </b> (rgb (0,0,255)) with units of <b>mm or &micro;m</b> (all converted to mm). </li>
     <li><b>Space</b> between specimens and the edge of the image at ~&frac13; of specimen size </li>
-    <li>Bivalve shells approximately umbo to the top of the image in order for chirality determination </li>
+    <li><b>Bivalve</b> shells approximately umbo <b>upwards in the image</b> for chirality determination </li>
   </ul>
   <li>Output directory (empty) </li>
 </ul>
