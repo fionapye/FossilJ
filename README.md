@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3336200.svg)](https://doi.org/10.5281/zenodo.3336200)
 
-The plugin provides free, open source tools for semi-automated measurements of fossils, with this first version optimised for drilled and undrilled bivalve shells. 
+The plugin provides free, open source tools for semi-automated measurements of fossils, with this first version optimised for bivalve shells with or without predatory drillholes. 
 
 FossilJ v0.2.1 was built in the FIJI distribution of ImageJ v1.52n.<br> 
 FIJI is available to download and explore here: https://fiji.sc/ <br><br>
