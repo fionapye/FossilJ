@@ -11,7 +11,7 @@ FIJI is Just ImageJ, which comes with many scientific image analysis plugins inc
 For more information about ImageJ, including the macro language, visit https://imagej.nih.gov/ij/index.html and https://imagej.net/ImageJ
 
 Cite as: Fiona Pye, & Nussaibah Raja-Schoob. (2019, July 15). FossilJ (Version v0.2.1). Zenodo. http://doi.org/10.5281/zenodo.3336200 <br>
-Alongside the software you used (see https://imagej.net/Citing).
+Alongside the ImageJ software you used (see https://imagej.net/Citing).
 
 FossilJ is licensed under a [AGPLv3 License](https://tldrlegal.com/license/gnu-affero-general-public-license-v3-(agpl-3.0)#summary).
 
